@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 -410 2048 2048"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   width="100%"
+   height="100%"
+   sodipodi:docname="uniE047_TaijituSerif.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.11523438"
+     inkscape:cx="1024"
+     inkscape:cy="1024"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#000000"
+     d="M 488 658 L 383 1003 L 417 1003 L 712 658 L 488 658 z M 507 1105 C 387 1105 284.16667 1150 198.5 1240 C 112.83333 1330 70 1447 70 1591 C 70 1739.6667 108.66667 1857.6667 186 1945 C 263.33333 2032.3333 354 2076 458 2076 C 545.33333 2076 625 2043.5 697 1978.5 C 768.99967 1913.5 817.333 1820.6667 842 1700 L 813 1686 C 778.33367 1766.6663 742.667 1822.333 706 1853 C 653.99967 1897.6667 595.333 1920 530 1920 C 438.667 1920 366.167 1878.1667 312.5 1794.5 C 273.73887 1734.0713 248.97842 1666.9047 238.21875 1593 L 562 1593 L 562 1528 L 232.40625 1528 C 232.13542 1520.329 232 1512.6623 232 1505 C 232 1397.6663 259 1311.333 313 1246 C 353.66667 1196.6667 407.33333 1172 474 1172 C 515.33367 1172 547.667 1182 571 1202 C 594.33301 1222.667 607.83301 1252.667 611.5 1292 C 615.167 1331.3333 622.667 1358 634 1372 C 654.00033 1397.3333 683.667 1410 723 1410 C 752.33367 1410.0003 775.167 1402.167 791.5 1386.5 C 807.83333 1370.833 816 1350.333 816 1325 C 816 1273.667 787 1224.167 729 1176.5 C 671 1128.8333 597 1105 507 1105 z "
+     transform="translate(0,-410)"
+     id="path2993" />
+</svg>
