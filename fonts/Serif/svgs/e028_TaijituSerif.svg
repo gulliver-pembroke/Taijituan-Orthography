@@ -1,56 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   viewBox="0 -438 2048 2048"
-   id="svg5667"
-   inkscape:version="0.48.3.1 r9886"
-   width="100%"
-   height="100%"
-   sodipodi:docname="uniE01F_TaijituSerif.svg">
-  <metadata
-     id="metadata5677">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs5675" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     id="namedview5673"
-     showgrid="false"
-     inkscape:zoom="0.34"
-     inkscape:cx="200.43265"
-     inkscape:cy="254.40544"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg5667" />
-  <path
-     style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
-     d="M 266.93569,206.04878 -5.9,317.99328 11.05425,352.94691 c 26.65229,-10.65965 48.63482,-15.96591 65.959,-15.96719 15.99127,0.001 29.15464,4.34528 39.4825,13.006 10.32769,8.66328 17.86393,24.82951 22.52825,48.48219 4.66395,23.65514 6.9675,87.11034 6.9675,190.38693 0,390.12194 9e-5,780.24386 9e-5,1170.36586 l -9e-5,97.9514 c -5e-5,56.6364 -4.34417,94.9166 -13.006,114.9057 -8.66218,19.9893 -20.6157,34.3624 -35.94069,43.0244 -15.32515,8.662 -44.01296,12.9479 -85.99022,12.9479 l -3.4e-4,35.9987 448.76494,0 0,-35.9987 c -47.3083,0 -79.6407,-4.7961 -96.9643,-14.4575 -17.3244,-9.6614 -30.1091,-23.8452 -38.4374,-42.5018 -8.3292,-18.6565 -12.4834,-56.616 -12.4834,-113.9187 l 0,-305.8733 c 58.4786,69.0665 134.0527,103.99 226.734,103.99 81.9553,0 152.4946,-15.7726 211.4636,-47.0887 58.9676,-31.3161 110.921,-84.0705 155.898,-157.6978 44.9747,-73.6258 67.5256,-156.7919 67.5265,-250.0751 -10e-5,-54.2485 -8.6016,-103.7512 -25.083,-148.8142 -10.776,-39.7611 -26.7451,-75.42463 -48.1918,-106.19634 -45.9762,-65.96419 -113.9645,-112.34786 -203.9155,-139.00163 60.5916,-26.23442 104.3111,-56.03659 131.5116,-89.30012 l 2.6127,0 c 39.1301,-55.41129 59.1071,-118.06793 59.1077,-188.35475 -10e-4,-102.6108 -35.8464,-182.0111 -107.4736,-237.64982 -71.6291,-55.63443 -160.3599,-83.086 -265.6361,-83.08744 -80.4496,0.001 -148.5662,17.1568 -204.5541,51.96594 l 0,-53.94006 z m 253.5008,70.83625 c 59.3009,0.001 107.4208,22.4213 144.4015,67.06219 27.7346,33.48244 45.0196,78.14241 53.3014,160.13637 0.887,118.82678 -16.9883,188.28446 -53.3014,229.9275 -36.3144,41.64445 -89.7404,62.59281 -160.3686,62.59138 l 0,56.90125 c 98.613,6.66379 179.7916,46.54687 230.5661,150.09158 48.347,98.5966 54.636,175.9089 54.6369,247.8688 -9e-4,93.9498 -21.1374,173.3551 -63.114,238.9852 -41.978,65.6316 -108.1583,98.6482 -198.1093,98.6482 -92.6013,0 -164.6266,-42.2829 -216.515,-126.9827 l 0,-925.51621 c 2.3607,-54.84753 8.3597,-96.2077 17.9413,-124.19569 12.6595,-36.97923 35.6777,-68.85905 69.3266,-95.51281 33.6482,-26.65093 73.9261,-40.00365 121.2345,-40.00506 z"
-     id="path4330"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccscsccccccscssccccccccccccccccsccscssccscc" />
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 -410 2048 2048">
+  <g transform="matrix(1 0 0 -1 0 1638)">
+   <path fill="currentColor"
+d="M877 943v-148v-532.062q1.73584 -73.7416 6.53125 -96.4375q7.49854 -35.5005 24 -49.5q16.4985 -14.001 38.5 -14q26.9184 0 72 17.0312l10.9688 -35.0312l-272 -113h-46v118.062q-121.487 -118.058 -269 -118.062q-170 0 -277 143q-97.0005 130 -97 305q0 201 119 356
+q129 168 324 168q109 0 185 -56l137 55h44zM499 882q-127 0 -195 -136q-52.9995 -107 -53 -247q0 -154 64 -272q78 -145 220 -145q94.0005 0 176 82v396q0 322 -212 322z" />
+  </g>
+
 </svg>

@@ -13,7 +13,7 @@
    inkscape:version="0.48.3.1 r9886"
    width="100%"
    height="100%"
-   sodipodi:docname="uniE04A_TaijituSerif.svg">
+   sodipodi:docname="uniE047_TaijituSerif.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -41,32 +41,15 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="0.11523438"
-     inkscape:cx="-13.016949"
-     inkscape:cy="634.77766"
+     inkscape:cx="1024"
+     inkscape:cy="1024"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
-  <g
-     transform="matrix(1 0 0 -1 0 1638)"
-     id="g4">
-    <path
-       d="M515 0h-461v37q68 3 80 5q43 9 61 44q16 31 16 129v486q0 73 -3 92q-9 58 -46 73q-26 11 -108 12v38h461v-38q-106 0 -127 -53q-11 -28 -11 -124v-486q0 -78 2 -91q8 -53 46 -72q31 -15 90 -15v-37z"
-       id="path6"
-       fill="currentColor" />
-  </g>
-  <g
-     id="g3054"
-     transform="translate(3398.7235,-2.37e-5)">
-    <path
-       id="path3040"
-       d="m -2937.9375,301 c 29.9993,10e-4 55.4993,10.66799 76.5,32 20.9993,21.33462 31.4993,47.00126 31.5,77 -7e-4,30.0012 -10.5007,55.50117 -31.5,76.5 -21.0007,21.00113 -46.5007,31.50112 -76.5,31.5 -30.0006,10e-4 -55.6672,-10.49887 -77,-31.5 -21.3339,-20.99883 -32.0005,-46.4988 -32,-76.5 -5e-4,-29.99874 10.6661,-55.66538 32,-77 21.3328,-21.33201 46.9994,-31.99866 77,-32 z"
-       style="font-size:2048px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path3033"
-       d="m -3290.9375,301 c 30.6664,10e-4 56.4997,10.66799 77.5,32 20.9996,21.33462 31.4996,47.00126 31.5,77 -4e-4,30.0012 -10.667,55.50117 -32,76.5 -21.3337,21.00113 -46.667,31.50112 -76,31.5 -30.0003,10e-4 -55.6669,-10.49887 -77,-31.5 -21.3335,-20.99883 -32.0002,-46.4988 -32,-76.5 -2e-4,-29.99874 10.4998,-55.66538 31.5,-77 20.9998,-21.33201 46.4997,-31.99866 76.5,-32 z"
-       style="font-size:2048px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     style="fill:#000000"
+     d="M 488 658 L 383 1003 L 417 1003 L 712 658 L 488 658 z M 507 1105 C 387 1105 284.16667 1150 198.5 1240 C 112.83333 1330 70 1447 70 1591 C 70 1739.6667 108.66667 1857.6667 186 1945 C 263.33333 2032.3333 354 2076 458 2076 C 545.33333 2076 625 2043.5 697 1978.5 C 768.99967 1913.5 817.333 1820.6667 842 1700 L 813 1686 C 778.33367 1766.6663 742.667 1822.333 706 1853 C 653.99967 1897.6667 595.333 1920 530 1920 C 438.667 1920 366.167 1878.1667 312.5 1794.5 C 273.73887 1734.0713 248.97842 1666.9047 238.21875 1593 L 562 1593 L 562 1528 L 232.40625 1528 C 232.13542 1520.329 232 1512.6623 232 1505 C 232 1397.6663 259 1311.333 313 1246 C 353.66667 1196.6667 407.33333 1172 474 1172 C 515.33367 1172 547.667 1182 571 1202 C 594.33301 1222.667 607.83301 1252.667 611.5 1292 C 615.167 1331.3333 622.667 1358 634 1372 C 654.00033 1397.3333 683.667 1410 723 1410 C 752.33367 1410.0003 775.167 1402.167 791.5 1386.5 C 807.83333 1370.833 816 1350.333 816 1325 C 816 1273.667 787 1224.167 729 1176.5 C 671 1128.8333 597 1105 507 1105 z "
+     transform="translate(0,-410)"
+     id="path2993" />
 </svg>

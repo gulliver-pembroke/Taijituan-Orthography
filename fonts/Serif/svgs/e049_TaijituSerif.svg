@@ -9,13 +9,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    viewBox="0 -410 2048 2048"
-   id="svg2"
-   inkscape:version="0.48.3.1 r9886"
+   id="svg2997"
+   inkscape:version="0.48.5 r10040"
    width="100%"
    height="100%"
-   sodipodi:docname="uniE049_TaijituSerif.svg">
+   sodipodi:docname="e049_TaijituSerif.svg">
   <metadata
-     id="metadata12">
+     id="metadata3007">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs3005" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,28 +36,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     id="namedview8"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3003"
      showgrid="false"
-     inkscape:zoom="0.093"
-     inkscape:cx="-13.016949"
+     inkscape:zoom="0.11523438"
+     inkscape:cx="1024"
      inkscape:cy="1024"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <g
-     transform="matrix(1 0 0 -1 0 1638)"
-     id="g4">
-    <path
-       fill="currentColor"
-       d="M1055 879h-34q-54 0 -83 -45q-15 -23 -15 -97v-359q0 -201 -77 -295q-83 -103 -275 -103q-220 0 -313 112q-80 98 -80 305v345q0 71 -15 98q-21 39 -84 39h-34v37h430v-37h-36q-57 0 -81 -35q-16 -23 -16 -102v-374q0 -151 44 -225q56 -93 193 -93q166 0 227 99 q45 74 45 247v346q0 86 -19 108q-26 29 -79 29h-34v37h336v-37z"
-       id="path6" />
-  </g>
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2997" />
   <path
-     style="font-size:2048px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
-     d="m 831.678,248 -295,345 -34,0 105,-345 z"
-     id="path3027"
-     inkscape:connector-curvature="0" />
+     style="fill:currentColor"
+     d="M 705,248 410,593 H 376 L 481,248 h 224 z"
+     id="path3001" />
+  <path
+     sodipodi:nodetypes="cssscsscscscsccssscccccsc"
+     inkscape:connector-curvature="0"
+     id="path6"
+     d="m 612.00005,859.99998 c 24,52.00003 54.6666,78.00003 92,78.00003 22.6666,0 42.6666,-8.5 60,-25.5 17.3333,-17.00003 26,-36.83333 26,-59.50003 0,-56.66672 -39.6667,-99.33332 -119,-128.00002 -56.6667,-20 -119.3334,-30 -188,-30 -21.3058,0 -41.97929,-1.0677 -63.01566,-0.5 -79.83545,2.1545 -148.65127,17.5009 -205.98439,51.5 -69.3334,40.6675 -104.0001,98.00082 -104,172.00005 C 109.9999,1021.334 188.3332,1096.3339 345.00002,1143 162.3332,1181.0005 71,1266.667 71,1400 c 0,86.6668 37.3333,154.3334 112,203 63.9998,42 141.33302,63 232.00002,63 129.99953,0 254.99933,-57.6666 375.00003,-173 l -26,-26 c -109.334,84.6668 -213.0005,127 -311,127 -58.00043,0 -104.50033,-19.4999 -139.50003,-58.5 -35.0003,-38.9999 -52.5003,-87.8331 -52.5,-146.5 -3e-4,-132.6663 85.6663,-202.9995 257.00003,-211 l 0,-58 c -64.6671,5e-4 -118.33373,-17.3328 -161.00003,-52 -46.0003,-37.3327 -69.0003,-87.66599 -69,-150.99999 -3e-4,-47.33263 16.4997,-86.33253 49.5,-117.00005 32.9996,-30.6658 73.15085,-46.653 122.17963,-47.4843 68.979,-1.1697 118.987,35.4843 152.3204,107.48432 z"
+     style="fill:#000000" />
 </svg>

@@ -1,56 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   viewBox="0 -410 2048 2048"
-   id="svg2"
-   inkscape:version="0.48.3.1 r9886"
-   width="100%"
-   height="100%"
-   sodipodi:docname="uniE02C_TaijituSerif.svg">
-  <metadata
-     id="metadata12">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs10" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="0.22"
-     inkscape:cx="520.77419"
-     inkscape:cy="4.5492979"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <path
-     style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
-     d="m 277.0224,351.93565 300.675,0 c 64.81401,0 107.35011,4.12092 127.39881,12.47247 20.04141,8.35301 36.30555,24.28072 48.99749,47.66196 18.04171,33.41199 28.50714,74.83628 31.18259,124.28002 l 40.08872,0 L 819.57497,282 l -744.340148,0 0,65.4812 409.365138,346.11045 C 418.82798,697.94064 356.25609,717.6058 296.62202,752.39047 228.46944,792.14703 173.5678,853.61848 131.80711,936.80645 90.046411,1019.9928 69,1103.8491 69,1188.0378 c 0,115.5934 34.52096,219.8276 103.34337,312.7013 C 253.85773,1610.9887 363.66121,1666 501.97308,1666 c 84.8556,0 162.02954,-21.3814 231.18546,-64.144 69.15445,-42.7628 123.16528,-106.0147 162.58829,-190.2061 39.4202,-84.1885 59.24223,-167.7086 59.24361,-249.8942 0,-116.9291 -35.85804,-220.27246 -107.35174,-310.47487 -18.30957,-22.95935 -37.55997,-43.896 -58.13029,-61.47293 z m 204.90488,406.24633 c 73.4978,0 133.85598,32.0721 181.29562,96.21621 70.15793,93.54367 105.12507,221.83191 105.12507,384.86501 0,130.2924 -20.71288,221.8318 -62.80708,275.2854 -42.09422,53.4534 -95.54766,80.1801 -160.36035,80.1801 -86.86109,0 -157.13178,-48.3305 -210.25025,-145.2152 -53.11998,-96.8849 -79.73553,-212.032 -79.73553,-345.6657 0,-82.8528 11.3593,-150.78298 33.40921,-203.56953 22.04991,-52.78338 50.66818,-89.42258 86.41641,-110.47037 35.74685,-21.045 71.49221,-31.62592 106.9069,-31.62592 z"
-     id="path4000-4"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cscccccccccsscsscccscscsssssccs" />
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 -438 2048 2048">
+  <g transform="matrix(1 0 0 -1 0 1638)">
+   <path fill="currentColor"
+d="M1023 878q-59 0 -87 -23q-44 -36 -83 -132l-256 -615v-302q0 -114 11 -143q8 -22 34 -38q36 -22 85 -22h41v-41h-515v41h32q118 0 137 83q4 18 4 120v283l-263 645q-29 74 -56 102q-39 41 -105 42v38h442v-38q-121 -8 -121 -62q0 -15 15 -59l217 -560l216 545
+q18 50 18 75q0 21 -21 41q-14 14 -64 17q-7 1 -27 3v38h346v-38z" />
+  </g>
+
 </svg>
