@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 -410 2048 2048"
+   id="svg2985"
+   inkscape:version="0.48.5 r10040"
+   width="100%"
+   height="100%"
+   sodipodi:docname="e005_TaijituSerif.svg">
+  <metadata
+     id="metadata2995">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2993" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview2991"
+     showgrid="false"
+     inkscape:zoom="0.11523438"
+     inkscape:cx="1024"
+     inkscape:cy="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2985" />
+  <g
+     transform="matrix(-1,0,0,1,1176,282)"
+     id="g2987">
+    <path
+       d="m 1009,1356 14,-296 h -36 q -32,144 -98.5,183 -66.5,39 -236.5,39 H 424 V 745 h 54 Q 727,745 844,713.5 961,682 1034.5,593 1108,504 1108,379 1108,228 996,114 884,0 610,0 H 36 v 37 q 126,4 161,40 35,36 35,170 v 862 q 0,103 -14.5,139 -14.5,36 -47.5,51 -33,15 -122,20 v 37 h 961 z M 424,81 Q 512,67 561,67 684,67 783.5,149 883,231 883,376 883,526 779,598.5 675,671 515,671 q -45,0 -91,-8 V 81 z"
+       id="path2989"
+       inkscape:connector-curvature="0"
+       style="fill:currentColor" />
+  </g>
+</svg>
