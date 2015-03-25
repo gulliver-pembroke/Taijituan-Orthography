@@ -9,13 +9,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    viewBox="-157 -442 2048 2048"
-   id="svg4041"
+   id="svg2"
    inkscape:version="0.48.5 r10040"
    width="100%"
    height="100%"
-   sodipodi:docname="e037_TaijituSerif.svg">
+   sodipodi:docname="e037.svg">
   <metadata
-     id="metadata4051">
+     id="metadata12">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs4049" />
+     id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,22 +36,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     id="namedview4047"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview8"
      showgrid="false"
-     inkscape:zoom="0.17"
-     inkscape:cx="446.22222"
-     inkscape:cy="-35.638218"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4041" />
-  <path
-     style="fill:currentColor"
-     d="m 374,2174 c 0,96.6667 -3.66667,159.5 -11,188.5 -7.33333,29 -18.66667,49.6667 -34,62 -15.33333,12.3333 -31,18.5 -47,18.5 -22,0 -49.16667,-14.5 -81.5,-43.5 -32.33333,-29 -54.16667,-45.8333 -65.5,-50.5 -18,-8.6667 -35.666667,-13 -53,-13 -22,0 -41.16667,8.3333 -57.5,25 -16.33333,16.6667 -24.5,36.6667 -24.5,60 0,23.3333 14.66667,46 44,68 29.333333,22 74.33333,33 135,33 106.66667,0 193.33333,-38 260,-114 66.66667,-76 100,-192.3333 100,-354.5 l 0,-706.5 c 0,-64 3.66667,-105.3333 11,-124 14,-35.3333 56.33333,-53 127,-53 l 0,-38 -461,0 0,38 c 54.66667,0.6667 90.66667,4.6667 108,12 24.66667,10 40,34.3333 46,73 2,12.6667 2.96529,43.3333 3,92 0,0 -0.0469,467.3339 0.5,701 0.0983,42.0002 0.5,126 0.5,126 z"
-     transform="translate(-157,-442)"
-     id="path4045"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssssscsssssssscccccccsss" />
+     inkscape:zoom="0.11523438"
+     inkscape:cx="1024"
+     inkscape:cy="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <g
+     transform="matrix(1 0 0 -1 0 1638)"
+     id="g4">
+    <path
+       d="m 382,943 0,-922 c 0,-156.66667 -33.33333,-273 -100,-349 -66.66667,-76 -153.33333,-114 -260,-114 -60.666667,0 -105.666667,11 -135,33 -29.33333,22 -44,44.66667 -44,68 0,23.33333 8.16667,43.33333 24.5,60 16.33333,16.66667 35.5,25 57.5,25 17.333333,0 35,-4.33333 53,-13 11.333333,-4.66667 33.166667,-21.5 65.5,-50.5 32.333333,-29 59.5,-43.5 81.5,-43.5 16,0 31.66667,6.16667 47,18.5 15.33333,12.33333 26.66667,33 34,62 7.33333,29 11,91.83333 11,188.5 l 0,652 c 0,100.66667 -3,165.33333 -9,194 -4.66667,22 -12,37.16667 -22,45.5 -10,8.33333 -23.66667,12.5 -41,12.5 -18.66667,0 -41.33333,-5 -68,-15 l -14,36 276,112 z"
+       id="path6"
+       inkscape:connector-curvature="0"
+       style="fill:currentColor"
+       sodipodi:nodetypes="cssssssscsssssscsscccc" />
+  </g>
 </svg>
